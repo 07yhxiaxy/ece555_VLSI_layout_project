@@ -1,0 +1,20 @@
+* "simulator" "PrimeSim HSPICE"
+* "version" "T-2022.06 linux64"
+* "format" "HSP"
+* "rundate" "16:32:59 11/11/2022 "
+* "netlist" "test.sp "
+* "runtitle" "**test"
+* time =  0.0000000e+00   
+* temperature =  2.5000000e+01   
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc= 1.0000000e-18   
+.nodeset
++ in<0> = 0.0000000e+00   
++ in<1> = 9.0000000e-01   
++ net1 = 1.2031430e-07   
++ net2 = 8.9999977e-01   
++ out = 1.5505018e-07   
++ vdd! = 9.0000000e-01   
++ vss! = 0.0000000e+00   
+***   END: Saved Operating Point ***                     

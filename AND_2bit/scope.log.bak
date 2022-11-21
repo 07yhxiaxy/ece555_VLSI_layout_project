@@ -1,0 +1,94 @@
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+wm geometry . 900x785+8+85
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+ScopeSigMgr:loadpffile /filespace/x/xxia48/ece555/ECE555/AND_2bit/test.tr0 1 openonly
+# PF:1
+wm geometry .sigmgr._PF:1 232x242+853+533
+pf:read PF:1 v(in<0>) v(in<1>) v(out)
+# WF:1:1 WF:1:2 WF:1:3
+Graph addsignal {WF:1:1 WF:1:2 WF:1:3} -region {new new new} -yview {real(y) real(y) real(y)} -xview {real(x) real(x) real(x)} -tracehi {2 2 2}
+# Signal0 Signal1 Signal2
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+wm geometry .sigmgr._PF:1 232x264+853+511
+Mdi:ArrangeIcons
+wm geometry . 1643x1015+0+23
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+wm geometry . 1643x1015+8+31
+Mdi:ArrangeIcons
+wm geometry . 1643x1015+0+23
+Mdi:FullSize
+Mdi:ArrangeIcons
+wm geometry . 1643x1015+8+31
+Mdi:ArrangeIcons
+wm geometry . 1643x1015+0+23
+wm geometry .sigmgr 376x204+275+1051
+wm geometry .sigmgr._PF:1 232x264+729+1057
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+wm geometry .sigmgr 376x204+522+164
+wm geometry .sigmgr 376x204+275+1051
+wm geometry .sigmgr._PF:1 232x264+853+511
+wm geometry .sigmgr._PF:1 232x264+729+1057
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+wm geometry .sigmgr._PF:1 232x259+729+1062
+ScopeSigMgr:Unload 0 {{(1) test.tr0}}
+wm geometry .sigmgr 376x204+904+291
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+wm geometry . 1643x1015+0+0
+Mdi:ArrangeIcons
+wm geometry . 1643x1015+0+23
+Mdi:ArrangeIcons
+wm geometry . 1643x1015+0+0
+Mdi:ArrangeIcons
+wm geometry . 1643x1015+0+23
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+wm geometry . 1643x1015+8+31
+Mdi:ArrangeIcons
+wm geometry . 1643x1015+0+23
+Mdi:ArrangeIcons
+wm geometry . 1643x1015+8+31
+Mdi:ArrangeIcons
+wm geometry . 1643x1015+0+23
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons
+Mdi:ArrangeIcons

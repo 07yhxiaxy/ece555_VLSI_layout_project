@@ -1,0 +1,15 @@
+*drcRulesFile: /cae/apps/data/asap7PDK-2022/asap7PDK_r1p7/calibre/ruledirs/drc/drcRules_calibre_asap7.rul
+*drcRunDir: /filespace/x/xxia48/ece555
+*drcLayoutPaths: AND_2bit.calibre.db
+*drcLayoutPrimary: AND_2bit
+*drcLayoutLibrary: ECE555
+*drcLayoutView: layout
+*drcLayoutGetFromViewer: 1
+*drcResultsFile: AND_2bit.drc.results
+*drcSummaryFile: AND_2bit.drc.summary
+*cmnSlaveHosts: {use {}} {hostName {}} {cpuCount {}} {a32a64 {}} {rsh {}} {maxMem {}} {workingDir {}} {layerDir {}} {mgcLibPath {}} {launchName {}}
+*cmnLSFSlaveTbl: {use 1} {totalCpus 1} {minCpus 1} {architecture {{}}} {minMemory {{}}} {resourceOptions {{}}} {submitOptions {{}}}
+*cmnGridSlaveTbl: {use 1} {totalCpus 1} {minCpus 1} {architecture {{}}} {minMemory {{}}} {resourceOptions {{}}} {submitOptions {{}}}
+*cmnFDILayoutLibrary: ECE555
+*cmnFDILayoutView: layout
+*cmnFDIDEFLayoutPath: AND_2bit.def
